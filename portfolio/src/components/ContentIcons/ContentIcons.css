@@ -1,0 +1,11 @@
+.icons-social{
+    cursor: pointer;
+    display: grid;
+    color: #5E17EB;
+
+    }
+
+    .icons-social :hover{
+        color: #FF9FD6;
+        transition: color 300ms;
+    }

@@ -1,0 +1,15 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Montserrat+Alternates:wght@300&display=swap');
+
+
+.container{
+height: 100%;
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+}
+
+.pototo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
